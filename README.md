@@ -1,1 +1,12 @@
-chat crie um repositorio do git hub com index.html, style.css e script.js simples aplicavel no ambiente escolar
+# Projeto Escolar
+
+Este é um projeto simples feito com HTML, CSS e JavaScript para fins educativos.
+
+## Tecnologias usadas
+- HTML
+- CSS
+- JavaScript
+
+## Como usar
+1. Baixe os arquivos
+2. Abra o arquivo index.html no navegador
