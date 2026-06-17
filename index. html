@@ -1,1 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projeto Escolar</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
 
+  <header>
+    <h1>Meu Projeto Escolar</h1>
+    <p>Um site simples feito com HTML, CSS e JavaScript</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Bem-vindo!</h2>
+      <p>Este é um projeto básico para uso em ambiente escolar.</p>
+
+      <button onclick="mostrarMensagem()">Clique aqui</button>
+
+      <p id="mensagem"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Desenvolvido para estudos 📚</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
